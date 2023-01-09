@@ -10,7 +10,7 @@ class A
         demo();//static method called without creating object
     }
 }
-______________________________________
+_________________________________
 
 //static method called by creating object 
 class A
