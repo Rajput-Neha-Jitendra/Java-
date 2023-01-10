@@ -1,6 +1,5 @@
 import java.awt.*;
 import java.applet.*;
-/*<applet code=Flag.class width=300 height=200></applet>*/
 public class Flag extends Applet {
  public void paint(Graphics g) {
   g.setColor(Color.orange);
